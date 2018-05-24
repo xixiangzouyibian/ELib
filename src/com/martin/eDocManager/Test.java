@@ -1,4 +1,4 @@
-package eDocManager;
+package com.martin.eDocManager;
 
 public class Test {
 	public static void main(String[] args) {
