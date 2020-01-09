@@ -1,4 +1,5 @@
 # eDocManager
+### deployment: jenkins / docker (openshift)
 This project is designed for eDocuments Manager system
 1. convert to maven project
 2. use springboot to start project
