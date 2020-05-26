@@ -1,4 +1,4 @@
-package hello;
+package com.martin.eDocManager.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
