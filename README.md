@@ -1,4 +1,4 @@
-# eDocManager ![Alt text](https://img.shields.io/badge/version-1.0.0-orange)
+# com.martin.eDoc.eDocManager
 ### deployment: jenkins / docker (openshift)
 This project is designed for eDocuments Manager system
 1. convert to maven project
