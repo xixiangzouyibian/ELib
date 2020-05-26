@@ -1,4 +1,4 @@
-# eDocManager
+# com.martin.eDoc.eDocManager
 ### deployment: jenkins / docker (openshift)
 This project is designed for eDocuments Manager system
 1. convert to maven project
