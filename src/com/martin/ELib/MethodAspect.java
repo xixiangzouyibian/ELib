@@ -13,7 +13,7 @@ import org.springframework.stereotype.Component;
 @Slf4j
 public class MethodAspect {
 
-    @Around("@annotation(com.martin.eDocManager.annotation.MethodDetails)")
+    @Around("@annotation(com.martin.ELib.annotation.MethodDetails)")
     public Object methodDetails(ProceedingJoinPoint joinPoint) throws Throwable {
         long start = System.currentTimeMillis();
         Object proceed = joinPoint.proceed();
