@@ -1,4 +1,4 @@
-package com.martin.eDocManager.model;
+package com.martin.ELib.model;
 
 import lombok.Builder;
 import lombok.Data;

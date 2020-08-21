@@ -1,6 +1,6 @@
-package com.martin.eDocManager.service;
+package com.martin.ELib.service;
 
-import com.martin.eDocManager.annotation.MethodDetails;
+import com.martin.ELib.annotation.MethodDetails;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

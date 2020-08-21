@@ -1,4 +1,4 @@
-package com.martin.eDocManager;
+package com.martin.ELib;
 
 
 import org.springframework.context.annotation.Bean;
@@ -20,7 +20,7 @@ public class SwaggerConfig {
     public Docket api() {
         return new Docket(DocumentationType.SWAGGER_2).select()
                 .apis(RequestHandlerSelectors
-                        .basePackage("com.martin.eDocManager.controller"))
+                        .basePackage("com.martin.ELib.controller"))
                 .paths(PathSelectors.regex("/.*"))
                 .build().apiInfo(apiEndPointsInfo());
     }

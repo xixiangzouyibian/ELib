@@ -1,4 +1,4 @@
-package com.martin.eDocManager.exception;
+package com.martin.ELib.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

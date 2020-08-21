@@ -1,4 +1,4 @@
-package com.martin.eDocManager.service;
+package com.martin.ELib.service;
 
 public interface HelloService {
 
