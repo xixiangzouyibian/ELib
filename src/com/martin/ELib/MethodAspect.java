@@ -1,7 +1,7 @@
-package com.martin.eDocManager;
+package com.martin.ELib;
 
 import com.google.gson.Gson;
-import com.martin.eDocManager.model.MethodDetails;
+import com.martin.ELib.model.MethodDetails;
 import lombok.extern.slf4j.Slf4j;
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;

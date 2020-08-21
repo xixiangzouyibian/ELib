@@ -1,6 +1,6 @@
-package com.martin.eDocManager;
+package com.martin.ELib;
 
-import com.martin.eDocManager.model.Employee;
+import com.martin.ELib.model.Employee;
 import org.springframework.http.*;
 import org.springframework.web.client.RestTemplate;
 

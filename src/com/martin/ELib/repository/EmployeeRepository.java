@@ -1,6 +1,6 @@
-package com.martin.eDocManager.repository;
+package com.martin.ELib.repository;
 
-import com.martin.eDocManager.model.Employee;
+import com.martin.ELib.model.Employee;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

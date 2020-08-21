@@ -1,8 +1,8 @@
-package com.martin.eDocManager.controller;
+package com.martin.ELib.controller;
 
-import com.martin.eDocManager.exception.ResourceNotFoundException;
-import com.martin.eDocManager.model.Employee;
-import com.martin.eDocManager.repository.EmployeeRepository;
+import com.martin.ELib.exception.ResourceNotFoundException;
+import com.martin.ELib.model.Employee;
+import com.martin.ELib.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

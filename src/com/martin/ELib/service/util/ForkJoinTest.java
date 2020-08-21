@@ -1,4 +1,4 @@
-package com.martin.eDocManager.service.util;
+package com.martin.ELib.service.util;
 
 import org.junit.Before;
 import org.junit.Test;

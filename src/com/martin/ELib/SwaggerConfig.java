@@ -1,4 +1,4 @@
-package com.martin.eDocManager;
+package com.martin.ELib;
 
 
 import org.springframework.context.annotation.Bean;

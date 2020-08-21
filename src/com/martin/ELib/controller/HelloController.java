@@ -1,7 +1,7 @@
-package com.martin.eDocManager.controller;
+package com.martin.ELib.controller;
 
-import com.martin.eDocManager.annotation.MethodDetails;
-import com.martin.eDocManager.service.HelloService;
+import com.martin.ELib.annotation.MethodDetails;
+import com.martin.ELib.service.HelloService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
